@@ -9,7 +9,6 @@ Learn about Claude Code, an agentic coding tool made by Anthropic. Currently in 
 Learn about Claude Code, an agentic coding tool made by Anthropic. Currently in beta as a research preview.
 
 Install NodeJS 18+, then run:
-
 Do NOT use sudo npm install -g as this can lead to permission issues and security risks. If you encounter permission errors, see configure Claude Code for recommended solutions.
 
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. By integrating directly with your development environment, Claude Code streamlines your workflow without requiring additional servers or complex setup.
