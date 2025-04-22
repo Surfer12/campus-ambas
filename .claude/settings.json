@@ -1,0 +1,18 @@
+{
+  "allowedTools": [
+    "FileReadTool",
+    "FileEditTool",
+    "GrepTool",
+    "Bash(npm run *)",
+    "Bash(node *)"
+  ],
+  "ignorePatterns": [
+    "*.log",
+    ".git/",
+    "node_modules/",
+    "*.tmp"
+  ],
+  "theme": "dark",
+  "verbose": true,
+  "autoCompactEnabled": true
+} 
