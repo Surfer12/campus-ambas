@@ -1,7 +1,4 @@
-#=Educational research as a undergraduate at UCSB and Cuesta College and personal projects as a Claude Campus Ambassador for enhancing educational cognitive understanding of Claude and its use through invitational frameworks. 
 
-Concise Julia module for fractal analysis and communication of complex concepts, integrating meta-analytical and recursive methods. Includes example structures and therapeutic tags for multi-layered analysis.
-=#
 
 module FractalCommunicationFramework
 
